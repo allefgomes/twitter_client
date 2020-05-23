@@ -23,3 +23,4 @@ erl_crash.dump
 twitter_client-*.tar
 
 .env
+.elixir_ls
